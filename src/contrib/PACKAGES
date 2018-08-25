@@ -5,6 +5,15 @@ License: GPL (>= 2)
 MD5sum: 96a3a1f4d859b60fc83066f66e9d4761
 NeedsCompilation: no
 
+Package: swephR
+Version: 0.0.4
+Imports: Rcpp (>= 0.12.18)
+LinkingTo: Rcpp
+Suggests: testthat, swephRdata
+License: AGPL
+MD5sum: e34ca57b0f08a1db5c73b2edd5cfac09
+NeedsCompilation: yes
+
 Package: swephRdata
 Version: 0.0.1
 License: GPL (>= 2)
