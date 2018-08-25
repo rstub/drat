@@ -5,3 +5,8 @@ License: GPL (>= 2)
 MD5sum: 96a3a1f4d859b60fc83066f66e9d4761
 NeedsCompilation: no
 
+Package: swephRdata
+Version: 0.0.1
+License: GPL (>= 2)
+MD5sum: 018a480583376c3163bf11e642eb080c
+NeedsCompilation: no
