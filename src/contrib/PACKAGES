@@ -6,12 +6,12 @@ MD5sum: 96a3a1f4d859b60fc83066f66e9d4761
 NeedsCompilation: no
 
 Package: swephR
-Version: 0.0.6
+Version: 0.1.0
 Imports: Rcpp (>= 0.12.18)
 LinkingTo: Rcpp
-Suggests: testthat, swephRdata
-License: AGPL
-MD5sum: 01d2eeae24b267bd87b8f6bfde3175e3
+Suggests: testthat, swephRdata, knitr, rmarkdown
+License: AGPL | file LICENSE
+MD5sum: 792bb95e84d9c4671b86dd9c9a328b54
 NeedsCompilation: yes
 
 Package: swephRdata
